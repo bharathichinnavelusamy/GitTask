@@ -7,6 +7,7 @@ public class testlibrary {
 			System.out.println("chandrasekar");
 			System.out.println("Accept the pull request for commit test from RAM");
 			System.out.println("Firs commit - RAM");
+			System.out.println("Successfully resolved the conflicts");
 		}
 	
 	
